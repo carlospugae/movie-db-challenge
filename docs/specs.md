@@ -28,8 +28,12 @@ In the discovery view, add a search bar at the top to allow users to query infor
 
 ### Filter by rating
 
-The rating is a value between 0 and 10. <br> Add a rating filter in the form of five stars like [here](https://dribbble.com/shots/1053518-Filters). <br> When selecting a star, all the stars to the left should be selected as well. <br>
-The range of each star is 2, so, if the first star is selected, only movies with rating 0-2 should appear. If the second star is selected, only movies with rating 2-4 should appear, and so on. <br> If the star clicked is the currently active, disable the filter. <br> Do this filtering on the client side.
+- The rating is a value between 0 and 10. 
+- Add a rating filter in the form of five stars like [here](https://dribbble.com/shots/1053518-Filters).
+- When selecting a star, all the stars to the left should be selected as well. 
+- The range of each star is 2, so, if the first star is selected, only movies with rating 0-2 should appear. If the second star is selected, only movies with rating 2-4 should appear, and so on. 
+- If the star clicked is the currently active, disable the filter. 
+- Do this filtering on the client side.
 
 - Rating field in the movie model: `vote_average`
 
@@ -39,8 +43,10 @@ Upon clicking, a detail view must be shown, displaying more information about th
 
 ## Design
 
-We do not require jaw dropping designs. <br> A clean, minimal UI will do. <br> We do want to see the movie images provided by the API.
-[Here's](https://dribbble.com/shots/1682568-Flixus-Homepage- WIP/attachments/266476) a design suggestion, but it's up to you.
+- We do not require jaw dropping designs. 
+- A clean, minimal UI will do. 
+- We do want to see the movie images provided by the API.
+[Here's](https://dribbble.com/shots/1682568-Flixus-Homepage-WIP/attachments/266476) a design suggestion, but it's up to you.
 
 ## Development requirements
 
