@@ -59,7 +59,21 @@ Upon clicking, a detail view must be shown, displaying more information about th
 ## FAQ
 
 - Do I need to add tests?
-- No. - Do I need to use some specific dependency?
-- Other than `React`, use what you feel comfortable with and what you feel is necessary for this project - What kind of React features can I use?
-- No restrictions here, show us what you know. We love React, and we love to use the latest features. - Do I need to follow the designs?
-- No, feel free to build the UI as you like. We only care about the code.
+
+
+    No. 
+
+- Do I need to use some specific dependency
+
+
+    Other than `React`, use what you feel comfortable with and what you feel is necessary for this project 
+
+- What kind of React features can I use?
+
+
+    No restrictions here, show us what you know. We love React, and we love to use the latest features. 
+
+- Do I need to follow the designs?
+
+
+    No, feel free to build the UI as you like. We only care about the code.
